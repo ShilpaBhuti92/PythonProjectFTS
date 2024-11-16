@@ -1,0 +1,1 @@
+firstTuple = (65, 88, "Shilpa", "Java", "Automation")   
